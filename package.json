@@ -1,11 +1,12 @@
 {
-  "name": "xml-parser",
+  "name": "@atscale/js-xml-parser-lib",
   "version": "1.2.1",
   "repository": "segmentio/xml-parser",
   "description": "the little xml parser that could",
   "scripts": {
     "test": "make test"
   },
+  "main": "index.js",
   "keywords": [
     "xml",
     "sucks"
