@@ -1,7 +1,7 @@
 
 # xml-parser
 
-  Simple non-compiant XML parser because we just need to parse some basic responses and libxml takes forever to compile :D you probably don't want to use this unless you also have similar needs.
+  Simple non-compliant XML parser because we just need to parse some basic responses and libxml takes forever to compile :D you probably don't want to use this unless you also have similar needs.
 
 ## Installation
 
@@ -86,3 +86,7 @@ Yields:
 # License
 
   MIT
+  
+## Publish as npm package
+
+Publish is done on every push to master by this Jenkins job: `Npm-publish-js-xml-parser-lib`.
